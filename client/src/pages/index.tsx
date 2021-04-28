@@ -1,10 +1,19 @@
-import React from "react";
-import App from "./_app";
+import React from 'react';
+import Wrapper from '../components/Wrapper';
+import App from './_app';
 
 const Index = () => {
   return (
     <div>
-      <p>Hello World</p>
+      <Wrapper>
+        <p>Hello World!</p>
+        <p>This Leo's upcoming portfolio page</p>
+        <p>Hope you are doing great!</p>
+        <p>
+          Great things are coming your way! Just remember to come back to this
+          page and thank me later :)
+        </p>
+      </Wrapper>
     </div>
   );
 };
