@@ -19,3 +19,9 @@ const Index = () => {
 };
 
 export default Index;
+
+// Resources:
+// https://github.com/sidthesloth92/db-portfolio
+// https://github.com/MA-Ahmad/notebook
+// https://chakra-ui.com/
+// https://raptis.wtf/blog/create-a-navbar-with-chakra-ui-react/
